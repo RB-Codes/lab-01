@@ -6,16 +6,14 @@ body {
 }
 div{
     text-align: center; 
-
 }
 header{
     width: 100%;
     height: 2%;
 }
 #a {
-    
     width: 100%;
-    height: 8%;
+    height: 10%;
     border-bottom: solid red 1px;
     margin-bottom: -1px;
     border-top: solid red 1px;
@@ -67,6 +65,7 @@ header{
     height: 37.5%;
     border-left: solid red 1px;
     margin-left: -1px;
+    
 }
 #h{
     float: right;
